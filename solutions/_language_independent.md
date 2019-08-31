@@ -1,18 +1,18 @@
 # Language Independent Solutions
-## text completion
-## managing buffers
-## managing sessions
-## triggering external tools
-## searching text
-## searching files
-## foldings
-## browse files
-## show file
-## spell checking
-## cycling keywords
-## get color
-## display color
-## diffing
-## version control
-## opening documents with external tool
-## reviews
+## Text Completion
+## Managing Buffers
+## Managing Sessions/Projects
+## Foldings
+## Triggering External Tools
+## Opening Documents With External Tools
+## Searching Text
+## Searching Files
+## Browsing Files
+## Show File In OS File Explorer
+## Spell Checking
+## Cycling Keywords
+## Get Color
+## Display Color
+## Diffing
+## Version Control
+## Reviews

@@ -1,22 +1,22 @@
 # LANGUAGE_NAME
-## syntax highlighting
-## snippets
-## filetype templates
-## code indentation/beautyfication
-## code completion
-## toggling comments
-## using quickfix
-## using balloons
-## searching symbols
-## navigating code/tags
-## jumping to declaration
-## jumping to opening/closing brace/tag
-## jumping to included files
-## debugging
-## call tree
-## include tree
-## handling unit tests
-## displaying code coverage
-## code metrics
-## linting
+## Syntax Highlighting
+## Snippets
+## Filetype Templates
+## Code Indentation/Beautyfication
+## Code Completion
+## Toggling Comments
+## Using Quickfix
+## Using Balloons
+## Navigating Code
+## Jumping To Declaration
+## List Symbol Usages
+## Jumping To Opening/Closing Brace/Tag
+## Jumping To Included Files
+## Debugging
+## Call Tree
+## Include Tree
+## Handling Unit Tests
+## Displaying Code Coverage
+## Code Metrics
+## Linting
 ## Refactoring 
