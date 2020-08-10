@@ -30,6 +30,7 @@
 + [vimcolors](https://vimcolors.com)
 + [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
 + [colorswat.ch/vim](http://colorswat.ch/vim/)
++ [vimcolorschemes](https://vimcolorschemes.com)
 
 ## Blogs
 + [dailyvim.blogspot.de](http://dailyvim.blogspot.de)
@@ -57,6 +58,7 @@
 + [vimcasts.org](http://vimcasts.org)
 + [Derek Wyatt](http://derekwyatt.org/vim/tutorials/index.html)
 + [How to Do 90% of What Plugins Do With Just Vim](https://www.youtube.com/watch?v=XA2WjJbmmoM)
++ [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
 
 ## Misc
 + [shortcutfoo.com](https://www.shortcutfoo.com/app/dojos/vim)
