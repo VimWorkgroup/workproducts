@@ -1,0 +1,7 @@
+# CoC
+
+## Installation
+
+## Configuration
+
+## Usage

@@ -22,6 +22,10 @@ the used programming language. Pick your language ...
 
 ... or help us to add more language specific solutions. Here is the [template file](solutions/_template.md).
 
+For [langserver](https://langserver.org) we have [dedicated tutorials](solutions/langserver.md) in which we cover the
+installation, configuration and usage. There are already some langserver plugins availabe, but we will talk about the
+probably most used [CoC](solutions/coc.md) plugin first. Maybe we can cover more when this chapter is finished.
+
 ## Link Collection
 A good and maintained [link collection](linkcollection/linkcollection.md) shouldn't be missing. But don't worry, we do
 not list every site that provides a small Vim tutorial.
