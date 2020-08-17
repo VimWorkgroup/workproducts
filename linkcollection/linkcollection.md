@@ -54,11 +54,29 @@
 + [tnerual.eriogerg.free.fr](http://tnerual.eriogerg.free.fr/vimqrc.html)
 + [poho](http://michael.peopleofhonoronly.com/vim/)
 
+## Reddit
++ [/r/vim](https://www.reddit.com/r/vim/)
++ [/r/neovim](https://www.reddit.com/r/neovim/)
++ [/r/watchpeoplevim](https://www.reddit.com/r/WatchPeopleVim/)
++ [/r/vimdailytips](https://www.reddit.com/r/vimdailytips/)
++ [/r/vimporn](https://www.reddit.com/r/vimporn/)
++ [/r/vimkeyboard](https://www.reddit.com/r/vimkeyboard/)
+
 ## Videos
 + [vimcasts.org](http://vimcasts.org)
 + [Derek Wyatt](http://derekwyatt.org/vim/tutorials/index.html)
 + [How to Do 90% of What Plugins Do With Just Vim](https://www.youtube.com/watch?v=XA2WjJbmmoM)
 + [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
 
+## Vim Inspired FileManagers
++ [vifm](https://vifm.info)
++ [ranger](https://ranger.github.io)
++ [nnn](https://github.com/jarun/nnn)
++ [nnn](https://github.com/dylanaraps/fff)
++ [lf](https://godoc.org/github.com/gokcehan/lf)
++ [joshuto](https://github.com/kamiyaa/joshuto)
+
 ## Misc
 + [shortcutfoo.com](https://www.shortcutfoo.com/app/dojos/vim)
++ [vimv](https://github.com/thameera/vimv)
+
