@@ -13,6 +13,7 @@
 + [vim-adventures.com](http://vim-adventures.com)
 + [vimgolf.com](https://vimgolf.com)
 + [openvim.com](http://www.openvim.com)
++ [vimtricks.com](https://vimtricks.com)
 + [vimawesome.com](http://vimawesome.com)
 + [vimgifs.com](http://vimgifs.com)
 + [vimcasts.org](http://vimcasts.org)
@@ -20,11 +21,12 @@
 + [vimregex.com](http://vimregex.com)
 + [vi-improved.org](http://www.vi-improved.org)
 + [vim.begin-site.org](http://vim.begin-site.org)
-+ [usevim.com](http://usevim.com)
+<!-- + [usevim.com](http://usevim.com) -->
 + [vim-fu](http://bencrowder.net/files/vim-fu/)
 + [vim-galore](https://github.com/mhinz/vim-galore)
 + [vim-bootstrap.appspot.com](http://vim-bootstrap.appspot.com)
 + [vimcolors.com](https://vimcolors.com)
++ [learn-vim](https://github.com/iggredible/Learn-Vim)
 
 ## Colorschemes
 + [vimcolors](https://vimcolors.com)
