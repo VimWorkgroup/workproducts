@@ -27,6 +27,7 @@
 + [vim-bootstrap.appspot.com](http://vim-bootstrap.appspot.com)
 + [vimcolors.com](https://vimcolors.com)
 + [learn-vim](https://github.com/iggredible/Learn-Vim)
++ [vim-helptag-versions](https://axelforsman.tk/vim-helptag-versions/)
 
 ## Colorschemes
 + [vimcolors](https://vimcolors.com)
