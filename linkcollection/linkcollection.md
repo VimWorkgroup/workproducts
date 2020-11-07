@@ -81,4 +81,5 @@
 ## Misc
 + [shortcutfoo.com](https://www.shortcutfoo.com/app/dojos/vim)
 + [vimv](https://github.com/thameera/vimv)
++ [vimflowy](https://vimflowy.netlify.app)
 
