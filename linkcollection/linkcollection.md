@@ -21,16 +21,15 @@
 + [vimregex.com](http://vimregex.com)
 + [vi-improved.org](http://www.vi-improved.org)
 + [vim.begin-site.org](http://vim.begin-site.org)
-<!-- + [usevim.com](http://usevim.com) -->
 + [vim-fu](http://bencrowder.net/files/vim-fu/)
 + [vim-galore](https://github.com/mhinz/vim-galore)
 + [vim-bootstrap.appspot.com](http://vim-bootstrap.appspot.com)
-+ [vimcolors.com](https://vimcolors.com)
 + [learn-vim](https://github.com/iggredible/Learn-Vim)
 + [vim-helptag-versions](https://axelforsman.tk/vim-helptag-versions/)
 
 ## Colorschemes
-+ [vimcolors](https://vimcolors.com)
++ [vimcolors.org](https://vimcolors.org)
++ [vimcolors.com](https://vimcolors.com)
 + [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
 + [colorswat.ch/vim](http://colorswat.ch/vim/)
 + [vimcolorschemes](https://vimcolorschemes.com)
