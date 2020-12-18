@@ -13,18 +13,21 @@ solutions to solve these issues and many more classics. If existent we list the 
 can be achieved with just some lines of Vim script. We also want to show the small light-weight plugin solutions and the
 full-blown feature rich solutions.
 
-We distinguish between [language independent solutions](solutions/_language_independent.md) and solutions that depend on
-the used programming language. Pick your language ...
+We distinguish between [language independent solutions](solutions/language_independent/language_independent.md) and
+solutions that depend on the used programming language. Pick your language ...
 
-[C](solutions/c.md) | [C++](solutions/c++.md) | [Go](solutions/go.md) | [HTML](solutions/html.md) |
-[JavaScript](solutions/javascript.md) | [Lua](solutions/lua.md) | [Perl](solutions/perl.md) |
-[Python](solutions/python.md) | [Ruby](solutions/ruby.md) | [Rust](solutions/rust.md)
+[C](solutions/language_dependent/c/c.md) | [C++](solutions/language_dependent/c++/c++.md) |
+[Go](solutions/language_dependent/go/go.md) | [HTML](solutions/language_dependent/html/html.md) |
+[JavaScript](solutions/language_dependent/javascript/javascript.md) | [Lua](solutions/language_dependent/lua/lua.md) |
+[Perl](solutions/language_dependent/perl/perl.md) | [Python](solutions/language_dependent/python/python.md) |
+[Ruby](solutions/language_dependent/ruby/ruby.md) | [Rust](solutions/language_dependent/rust/rust.md)
 
-... or help us to add more language specific solutions. Here is the [template file](solutions/_template.md).
+<!-- ... or help us to add more language specific solutions. Here is the [template file](solutions/_template.md). -->
 
-For [langserver](https://langserver.org) we have [dedicated tutorials](solutions/langserver.md) in which we cover the
-installation, configuration and usage. There are already some langserver plugins availabe, but we will talk about the
-probably most used [CoC](solutions/coc.md) plugin first. Maybe we can cover more when this chapter is finished.
+For [langserver](https://langserver.org) we have [dedicated tutorials](solutions/language_dependent/_langserver/langserver.md)
+in which we cover the installation, configuration and usage. There are already some langserver plugins availabe,
+but we will talk about the probably most used [CoC](solutions/language_dependent/_langserver/coc/coc.md) plugin first.
+Maybe we can cover more when this chapter is finished.
 
 ## Link Collection
 A good and maintained [link collection](linkcollection/linkcollection.md) shouldn't be missing. But don't worry, we do
