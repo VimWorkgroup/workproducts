@@ -13,6 +13,7 @@
 + [vim-adventures.com](http://vim-adventures.com)
 + [vimgolf.com](https://vimgolf.com)
 + [openvim.com](http://www.openvim.com)
++ [vim.so](https://www.vim.so)
 + [vimtricks.com](https://vimtricks.com)
 + [vimawesome.com](http://vimawesome.com)
 + [vimgifs.com](http://vimgifs.com)
