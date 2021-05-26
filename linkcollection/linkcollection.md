@@ -27,6 +27,7 @@
 + [vim-bootstrap.appspot.com](http://vim-bootstrap.appspot.com)
 + [learn-vim](https://github.com/iggredible/Learn-Vim)
 + [vim-helptag-versions](https://axelforsman.tk/vim-helptag-versions/)
++ [learn-vim](https://github.com/iggredible/Learn-Vim)
 
 ## Colorschemes
 + [vimcolors.org](https://vimcolors.org)
@@ -83,4 +84,5 @@
 + [shortcutfoo.com](https://www.shortcutfoo.com/app/dojos/vim)
 + [vimv](https://github.com/thameera/vimv)
 + [vimflowy](https://vimflowy.netlify.app)
++ [vimmodestatediagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg)
 
