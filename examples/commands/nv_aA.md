@@ -11,14 +11,14 @@ Puts Vim in insert mode somewhere after the cursor.
 
 ## Examples
 
-### normal mode a and A
+### normal mode `a` and `A`
 
 `A` is bascially the short form of `$a`, and is useful when you have to append text to a line, for example when you forgot a
 semicolon or you want to add a comment to the line.
 
 ![normal mode a and A](img/nv_aA_1.png)
 
-### visual block mode A
+### visual block mode `A`
 
 In visual block mode the `A` command offers a very handy feature that allows you to add text for all selected lines
 after the right side of the selected block.

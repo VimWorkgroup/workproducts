@@ -11,8 +11,8 @@ If you want to get informed about all new entries you can [join the Telegram cha
 
 ## Overview Table
 
-| Letter | Commands                                   | Functions | Options |
-|--------|--------------------------------------------|-----------|---------|
-| a      | [normal and visual a,A](commands/nv_aA.md) |           |         |
-|        | normal Ctrl-a                              |           |         |
-|        | insert Ctrl-a                              |           |         |
+| Letter | Commands                                          | Functions | Options |
+|--------|---------------------------------------------------|-----------|---------|
+| a      | [normal and visual a,A](commands/nv_aA.md)        |           |         |
+|        | [normal and visual Ctrl-a](commands/nv_Ctrl-a.md) |           |         |
+|        | insert Ctrl-a                                     |           |         |
