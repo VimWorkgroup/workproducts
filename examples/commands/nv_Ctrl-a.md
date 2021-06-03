@@ -1,4 +1,4 @@
-# normal and visual `Ctrl-a`
+# normal and visual mode `Ctrl-a`
 
 ## Vim Reference
 
