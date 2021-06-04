@@ -26,7 +26,7 @@ Incrementing only the selected numbers.
 
 ![visual mode Ctrl-a](img/nv_Ctrl-a_3.gif)
 
-Incrementing numbers on multiple lines at ones.
+Incrementing numbers on multiple lines at once.
 
 ![visual mode Ctrl-a on multiple lines](img/nv_Ctrl-a_4.gif)
 
