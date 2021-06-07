@@ -12,10 +12,10 @@ If you want to get informed about all new entries you can [join the Telegram cha
 
 ## Overview Table
 
-| Letter | Keys                                              | Functions | Options                             | Commands |
-|:------:|---------------------------------------------------|-----------|-------------------------------------|----------|
-| a      | [normal and visual a,A](commands/nv_aA.md)        |           | [autochdir](options/autochdir.md)   |          |
-|        | [normal and visual Ctrl-a](commands/nv_Ctrl-a.md) |           | [autoindent](options/autoindent.md) |          |
-|        | [insert Ctrl-a](commands/i_Ctrl-a.md)             |           |                                     |          |
-|        | [commandline Ctrl-a](commands/c_Ctrl-a.md)        |           |                                     |          |
+| Letter | Keys                                              | Functions               | Options                             | Commands |
+|:------:|---------------------------------------------------|-------------------------|-------------------------------------|----------|
+| a      | [normal and visual a,A](commands/nv_aA.md)        | [add](functions/add.md) | [autochdir](options/autochdir.md)   |          |
+|        | [normal and visual Ctrl-a](commands/nv_Ctrl-a.md) |                         | [autoindent](options/autoindent.md) |          |
+|        | [insert Ctrl-a](commands/i_Ctrl-a.md)             |                         |                                     |          |
+|        | [commandline Ctrl-a](commands/c_Ctrl-a.md)        |                         |                                     |          |
 
