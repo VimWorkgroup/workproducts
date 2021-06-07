@@ -13,5 +13,5 @@ Pretty self-explanatory ...
 
 ![option autoindent](img/autoindent.gif)
 
-> Be aware that `autoindent` is somehow connect to `smartindent` and `cindent`.
+> Be aware that `autoindent` is somehow connected to `smartindent` and `cindent`.
 
