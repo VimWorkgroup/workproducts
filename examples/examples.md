@@ -16,6 +16,6 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |:------:|---------------------------------------------------|--------------------------------------|-------------------------------------|--------------------------------|
 | a      | [normal and visual a,A](commands/nv_aA.md)        | [add](functions/add.md)              | [autochdir](options/autochdir.md)   | [args](excommands/args.md)     |
 |        | [normal and visual Ctrl-a](commands/nv_Ctrl-a.md) | [append](functions/append.md)        | [autoindent](options/autoindent.md) | [argadd](excommands/argadd.md) |
-|        | [insert Ctrl-a](commands/i_Ctrl-a.md)             | [appendbufline](functions/append.md) |                                     |                                |
+|        | [insert Ctrl-a](commands/i_Ctrl-a.md)             | [appendbufline](functions/append.md) |                                     | [ascii](excommands/ascii.md)   |
 |        | [commandline Ctrl-a](commands/c_Ctrl-a.md)        |                                      |                                     |                                |
 
