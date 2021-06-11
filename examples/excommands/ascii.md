@@ -16,5 +16,5 @@ Both show a decimal value of 99 and a hex value of 0x63.
 
 ![excommand ascii](img/ascii.png)
 
-> As you have 2 commands (:ascii and ga) that are doing the same, one couldn't potentially use `ga` for something else.
+> As you have 2 commands (:ascii and ga) that are doing the same, one could potentially use `ga` for something else.
 > But of course `ga` is the one easier to execute. So you have to decide yourself if it's worth the trade-off.
