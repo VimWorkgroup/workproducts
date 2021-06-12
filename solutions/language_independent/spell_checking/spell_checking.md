@@ -200,7 +200,5 @@ then fix all spelling errors with one command.
     :cdo normal 1z=
 
 Not so bad. With just 2 fairly small functions we were able to achieve such powerful feature.
-
-## See also
-+ [vim-abolish](https://github.com/tpope/vim-abolish)
+Of course from here you can add more features like changing directly from the quickfix list, creating mappings etc.
 

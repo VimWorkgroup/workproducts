@@ -1,2 +1,5 @@
 *.mov
-
+makefile
+examples/VimAlphabet.txt
+examples/demodir/
+snippets/
