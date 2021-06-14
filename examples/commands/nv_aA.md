@@ -13,7 +13,7 @@ Puts Vim in insert mode somewhere after the cursor.
 
 ### normal mode `a` and `A`
 
-`A` is bascially the short form of `$a`, and is useful when you have to append text to a line, for example when you forgot a
+`A` is basically the short form of `$a`, and is useful when you have to append text to a line, for example when you forgot a
 semicolon or you want to add a comment to the line.
 
 ![normal mode a and A](img/nv_aA_1.png)

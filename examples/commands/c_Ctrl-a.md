@@ -9,7 +9,7 @@ Insert all args of the current command that match the pattern.
 
 ## Examples
 
-I dont't know if this is a good example, but let's assume we want to activate all boolean Vim options that start with
+I don't know if this is a good example, but let's assume we want to activate all boolean Vim options that start with
 `show*`. This example has only the purpose to demo that it works per ex-command. Hint - for the Vim options that require a
 parameter value only their current setting gets printed, in this example `showbreak` and `showtabline`.
 

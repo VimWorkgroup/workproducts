@@ -11,6 +11,3 @@ call appendbufline(3, 5, "some text")
 call appendbufline("filename", 5, "some text")
 
 
-
-
-

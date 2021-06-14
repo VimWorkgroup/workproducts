@@ -24,7 +24,7 @@
 + [vim-galore](https://github.com/mhinz/vim-galore)
 + [learn-vim](https://github.com/iggredible/Learn-Vim)
 + [vim-helptag-versions](https://axelforsman.tk/vim-helptag-versions/)
-+ [learn-vim](https://github.com/iggredible/Learn-Vim)
++ [vimways](https://vimways.org/)
 
 ## Colorschemes
 + [vimcolors.org](https://vimcolors.org)
@@ -34,6 +34,7 @@
 + [vimcolorschemes](https://vimcolorschemes.com)
 
 ## Blogs
++ [effective text editing](https://www.moolenaar.net/habits.html)
 + [dailyvim.blogspot.de](http://dailyvim.blogspot.de)
 + [dailyvim.tumblr.com](http://dailyvim.tumblr.com)
 + [derekwyatt blog](http://derekwyatt.org/tags/index.html#vim)
@@ -68,6 +69,7 @@
 + [Derek Wyatt](http://derekwyatt.org/vim/tutorials/index.html)
 + [How to Do 90% of What Plugins Do With Just Vim](https://www.youtube.com/watch?v=XA2WjJbmmoM)
 + [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
++ [VimTricks](https://www.youtube.com/channel/UCDPNU10nfHfPgEAqK9SmuTQ/videos)
 
 ## Vim Inspired FileManagers
 + [vifm](https://vifm.info)

@@ -132,7 +132,7 @@ But if we look at the undercurled lines in Vim, there we see only a single word 
 ![hello world test](img/hello_world.png)
 
 So of course when we provide a word to the `spellbadword()` function that is not known then it must be marked as
-spelling mistake. From that point of view nothing is wrong. But on the other hand this can be very annyoing in source
+spelling mistake. From that point of view nothing is wrong. But on the other hand this can be very annoying in source
 code and obviously we can tell from the screenshot above that Vim is capable of handling it in a smart way, so that only
 the really misspelled word is listed and not the irrelevant parts of the source code. And this leads us to the second
 implementation that calls `spellbadword()` without argument. Because this way Vim is taking care of the source code and
