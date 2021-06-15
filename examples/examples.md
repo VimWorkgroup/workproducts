@@ -19,5 +19,6 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        | [insert Ctrl-a](commands/i_Ctrl-a.md)             | [appendbufline](functions/append.md) |                                     | [argdo](excommands/argdo.md)              |
 |        | [commandline Ctrl-a](commands/c_Ctrl-a.md)        |                                      |                                     | [ascii](excommands/ascii.md)              |
 |        |                                                   |                                      |                                     | [abbreviate](excommands/abbreviations.md) |
-|        |                                                   |                                      |                                     | [autocmd](excommands/autocmd.md) |
+|        |                                                   |                                      |                                     | [autocmd](excommands/autocmd.md)          |
+| b      | [normal and visual b,B](commands/nv_bB.md)        |                                      |                                     |                                           |
 
