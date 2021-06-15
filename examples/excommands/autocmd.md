@@ -15,7 +15,7 @@ Create, list or remove autocommands that execute a *command* automatically on an
 ## Examples
 As this is a bigger topic and I can't give an example for every user case, I thought it might be good to explain a bit
 more. In the short description you see 3 emphasized words (command, event, pattern). That's the core of autocommands.
-You can automatically let Vim execute a command like e.g. setting options, for specific files that match a patter like
+You can automatically let Vim execute a command like e.g. setting options, for specific files that match a pattern like
 e.g. `*.txt`, but only on certain events like e.g. reading a buffer. But it could be almost anything.
 
 You could for example let Vim re-indent the code every time you save a C source file.
