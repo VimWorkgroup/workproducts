@@ -21,4 +21,5 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                      |                                     | [abbreviate](excommands/abbreviations.md) |
 |        |                                                   |                                      |                                     | [autocmd](excommands/autocmd.md)          |
 | b      | [normal and visual b,B](commands/nv_bB.md)        |                                      |                                     |                                           |
+|        | [insert Ctrl-b](commands/i_Ctrl-b.md)             |                                      |                                     |                                           |
 
