@@ -21,7 +21,7 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                      |                                     | [abbreviate](excommands/abbreviations.md) |
 |        |                                                   |                                      |                                     | [autocmd](excommands/autocmd.md)          |
 | b      | [normal and visual b,B](commands/nv_bB.md)        |                                      |                                     | [buffers](excommands/buffers.md)          |
-|        | [normal Ctrl-b](commands/n_Ctrl-b.md)             |                                      |                                     |                                           |
+|        | [normal Ctrl-b](commands/n_Ctrl-b.md)             |                                      |                                     | [buffer](excommands/buffer.md)            |
 |        | [insert Ctrl-b](commands/i_Ctrl-b.md)             |                                      |                                     |                                           |
 |        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        |                                      |                                     |                                           |
 
