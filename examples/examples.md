@@ -23,5 +23,5 @@ If you want to get informed about all new entries you can [join the Telegram cha
 | b      | [normal and visual b,B](commands/nv_bB.md)        | [bufname](functions/bufname.md)      |                                     | [buffers](excommands/buffers.md)          |
 |        | [normal Ctrl-b](commands/n_Ctrl-b.md)             | [bufnr](functions/bufnr.md)          |                                     | [buffer](excommands/buffer.md)            |
 |        | [insert Ctrl-b](commands/i_Ctrl-b.md)             | [bufwinid](functions/bufwinid.md)    |                                     | [bdelete](excommands/bdelete.md)          |
-|        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        |                                      |                                     |                                           |
+|        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        |                                      |                                     | [browse](excommands/browse.md)            |
 
