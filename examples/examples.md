@@ -20,8 +20,11 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        | [commandline Ctrl-a](commands/c_Ctrl-a.md)        |                                      |                                     | [ascii](excommands/ascii.md)              |
 |        |                                                   |                                      |                                     | [abbreviate](excommands/abbreviations.md) |
 |        |                                                   |                                      |                                     | [autocmd](excommands/autocmd.md)          |
+|        |                                                   |                                      |                                     |                                           |
 | b      | [normal and visual b,B](commands/nv_bB.md)        | [bufname](functions/bufname.md)      | [breakat](options/break.md)         | [buffers](excommands/buffers.md)          |
 |        | [normal Ctrl-b](commands/n_Ctrl-b.md)             | [bufnr](functions/bufnr.md)          | [breakindent](options/break.md)     | [buffer](excommands/buffer.md)            |
 |        | [insert Ctrl-b](commands/i_Ctrl-b.md)             | [bufwinid](functions/bufwinid.md)    | [breakindentopt](options/break.md)  | [bdelete](excommands/bdelete.md)          |
 |        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        | [byte2line](functions/byte2line.md)  |                                     | [browse](excommands/browse.md)            |
+|        |                                                   |                                      |                                     |                                           |
+| c      | [normal and visual c,C](commands/nv_cC.md)        |                                      |                                     |                                           |
 
