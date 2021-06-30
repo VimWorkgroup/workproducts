@@ -27,4 +27,5 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        | [byte2line](functions/byte2line.md)  |                                     | [browse](excommands/browse.md)            |
 |        |                                                   |                                      |                                     |                                           |
 | c      | [normal and visual c,C](commands/nv_cC.md)        |                                      |                                     |                                           |
+|        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)|                                      |                                     |                                           |
 
