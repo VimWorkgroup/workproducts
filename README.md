@@ -8,6 +8,9 @@ from the alphabet within 1 year. This is simply an [example reference](examples/
 and functions. The idea is to encourage Vimmers to use the built-in Vim reference, and making it easier to understand
 each topic with an example, along with some tips and use cases.
 
+## Use Cases, Tips & Tricks and More
+[In this section](usecases/usecases.md) you can find various topics that might help you to get the most out of your Vim.
+
 ## Key Mappings
 We thought it might be a good a idea to provide a complete [list of key mappings](keymappings/keymappings.md) (:h index)
 that also shows all free/unused key combinations. Just search for "FREE".
