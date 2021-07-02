@@ -12,20 +12,22 @@ If you want to get informed about all new entries you can [join the Telegram cha
 
 ## Overview Table
 
-| Letter | Keys                                              | Functions                            | Options                               | Commands                                  |
-|:------:|---------------------------------------------------|--------------------------------------|---------------------------------------|-------------------------------------------|
-| a      | [normal and visual a,A](commands/nv_aA.md)        | [add](functions/add.md)              | [autochdir](options/autochdir.md)     | [args](excommands/args.md)                |
-|        | [normal and visual Ctrl-a](commands/nv_Ctrl-a.md) | [append](functions/append.md)        | [autoindent](options/autoindent.md)   | [argadd](excommands/argadd.md)            |
-|        | [insert Ctrl-a](commands/i_Ctrl-a.md)             | [appendbufline](functions/append.md) |                                       | [argdo](excommands/argdo.md)              |
-|        | [commandline Ctrl-a](commands/c_Ctrl-a.md)        |                                      |                                       | [ascii](excommands/ascii.md)              |
-|        |                                                   |                                      |                                       | [abbreviate](excommands/abbreviations.md) |
-|        |                                                   |                                      |                                       | [autocmd](excommands/autocmd.md)          |
-|        |                                                   |                                      |                                       |                                           |
-| b      | [normal and visual b,B](commands/nv_bB.md)        | [bufname](functions/bufname.md)      | [breakat](options/break.md)           | [buffers](excommands/buffers.md)          |
-|        | [normal Ctrl-b](commands/n_Ctrl-b.md)             | [bufnr](functions/bufnr.md)          | [breakindent](options/break.md)       | [buffer](excommands/buffer.md)            |
-|        | [insert Ctrl-b](commands/i_Ctrl-b.md)             | [bufwinid](functions/bufwinid.md)    | [breakindentopt](options/break.md)    | [bdelete](excommands/bdelete.md)          |
-|        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        | [byte2line](functions/byte2line.md)  |                                       | [browse](excommands/browse.md)            |
-|        |                                                   |                                      |                                       |                                           |
-| c      | [normal and visual c,C](commands/nv_cC.md)        |                                      | [colorcolumn](options/colorcolumn.md) |                                           |
-|        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)|                                      |                                       |                                           |
+| Letter | Keys                                              | Functions                            | Options                                    | Commands                                  |
+|:------:|---------------------------------------------------|--------------------------------------|--------------------------------------------|-------------------------------------------|
+| a      | [normal and visual a,A](commands/nv_aA.md)        | [add](functions/add.md)              | [autochdir](options/autochdir.md)          | [args](excommands/args.md)                |
+|        | [normal and visual Ctrl-a](commands/nv_Ctrl-a.md) | [append](functions/append.md)        | [autoindent](options/autoindent.md)        | [argadd](excommands/argadd.md)            |
+|        | [insert Ctrl-a](commands/i_Ctrl-a.md)             | [appendbufline](functions/append.md) |                                            | [argdo](excommands/argdo.md)              |
+|        | [commandline Ctrl-a](commands/c_Ctrl-a.md)        |                                      |                                            | [ascii](excommands/ascii.md)              |
+|        |                                                   |                                      |                                            | [abbreviate](excommands/abbreviations.md) |
+|        |                                                   |                                      |                                            | [autocmd](excommands/autocmd.md)          |
+|        |                                                   |                                      |                                            |                                           |
+| b      | [normal and visual b,B](commands/nv_bB.md)        | [bufname](functions/bufname.md)      | [breakat](options/break.md)                | [buffers](excommands/buffers.md)          |
+|        | [normal Ctrl-b](commands/n_Ctrl-b.md)             | [bufnr](functions/bufnr.md)          | [breakindent](options/break.md)            | [buffer](excommands/buffer.md)            |
+|        | [insert Ctrl-b](commands/i_Ctrl-b.md)             | [bufwinid](functions/bufwinid.md)    | [breakindentopt](options/break.md)         | [bdelete](excommands/bdelete.md)          |
+|        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        | [byte2line](functions/byte2line.md)  |                                            | [browse](excommands/browse.md)            |
+|        |                                                   |                                      |                                            |                                           |
+| c      | [normal and visual c,C](commands/nv_cC.md)        |                                      | [colorcolumn](options/colorcolumn.md)      |                                           |
+|        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)|                                      | [cursorcolumn](options/cursorhighlight.md) |                                           |
+|        |                                                   |                                      | [cursorline](options/cursorhighlight.md)   |                                           |
+|        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)|                                           |
 
