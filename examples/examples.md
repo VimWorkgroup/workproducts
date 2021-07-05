@@ -30,4 +30,5 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)|                                      | [cursorcolumn](options/cursorhighlight.md) |                                           |
 |        |                                                   |                                      | [cursorline](options/cursorhighlight.md)   |                                           |
 |        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)|                                           |
+|        |                                                   |                                      | [cdpath](options/cdpath.md)                |                                           |
 
