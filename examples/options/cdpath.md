@@ -31,3 +31,5 @@ the `:cd` command and the project directory name ...
     :cd prj2
 
 > Did you know that there is a `DirChanged` autocommand event and that Vim can load saved sessions? Just saying. 😜
+
+> Currently path completion from `cdpath` is not possible. [See issue](https://github.com/vim/vim/issues/374).
