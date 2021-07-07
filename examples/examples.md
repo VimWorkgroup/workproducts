@@ -32,3 +32,4 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)|                                           |
 |        |                                                   |                                      | [cdpath](options/cdpath.md)                |                                           |
 |        |                                                   |                                      | [cedit](options/cedit.md)                  |                                           |
+|        |                                                   |                                      | [clipboard](options/clipboard.md)          |                                           |
