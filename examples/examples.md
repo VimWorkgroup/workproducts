@@ -26,7 +26,7 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        | [insert Ctrl-b](commands/i_Ctrl-b.md)             | [bufwinid](functions/bufwinid.md)    | [breakindentopt](options/break.md)         | [bdelete](excommands/bdelete.md)          |
 |        | [commandline Ctrl-b](commands/c_Ctrl-b.md)        | [byte2line](functions/byte2line.md)  |                                            | [browse](excommands/browse.md)            |
 |        |                                                   |                                      |                                            |                                           |
-| c      | [normal and visual c,C](commands/nv_cC.md)        |                                      | [colorcolumn](options/colorcolumn.md)      |                                           |
+| c      | [normal and visual c,C](commands/nv_cC.md)        | [cursor](functions/cursor.md)        | [colorcolumn](options/colorcolumn.md)      |                                           |
 |        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)|                                      | [cursorcolumn](options/cursorhighlight.md) |                                           |
 |        |                                                   |                                      | [cursorline](options/cursorhighlight.md)   |                                           |
 |        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)|                                           |
