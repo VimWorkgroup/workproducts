@@ -28,7 +28,7 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                      |                                            |                                           |
 | c      | [normal and visual c,C](commands/nv_cC.md)        | [cursor](functions/cursor.md)        | [colorcolumn](options/colorcolumn.md)      |                                           |
 |        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)| [confirm](functions/confirm.md)      | [cursorcolumn](options/cursorhighlight.md) |                                           |
-|        |                                                   |                                      | [cursorline](options/cursorhighlight.md)   |                                           |
+|        |                                                   | [complete](functions/complete.md)    | [cursorline](options/cursorhighlight.md)   |                                           |
 |        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)|                                           |
 |        |                                                   |                                      | [cdpath](options/cdpath.md)                |                                           |
 |        |                                                   |                                      | [cedit](options/cedit.md)                  |                                           |
