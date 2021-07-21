@@ -29,7 +29,7 @@ If you want to get informed about all new entries you can [join the Telegram cha
 | c      | [normal and visual c,C](commands/nv_cC.md)        | [cursor](functions/cursor.md)        | [colorcolumn](options/colorcolumn.md)      | [center](excommands/center.md)            |
 |        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)| [confirm](functions/confirm.md)      | [cursorcolumn](options/cursorhighlight.md) | [copy](excommands/copy.md)                |
 |        |                                                   | [complete](functions/complete.md)    | [cursorline](options/cursorhighlight.md)   | [cd,chdir](excommands/cd.md)              |
-|        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)|                                           |
+|        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)| [command](excommands/command.md)          |
 |        |                                                   |                                      | [cdpath](options/cdpath.md)                |                                           |
 |        |                                                   |                                      | [cedit](options/cedit.md)                  |                                           |
 |        |                                                   |                                      | [clipboard](options/clipboard.md)          |                                           |
