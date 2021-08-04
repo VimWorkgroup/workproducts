@@ -30,6 +30,6 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        | [almost all modes Ctrl-c](commands/nvci_Ctrl-c.md)| [confirm](functions/confirm.md)      | [cursorcolumn](options/cursorhighlight.md) | [copy](excommands/copy.md)                |
 |        |                                                   | [complete](functions/complete.md)    | [cursorline](options/cursorhighlight.md)   | [cd,chdir](excommands/cd.md)              |
 |        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)| [command](excommands/command.md)          |
-|        |                                                   |                                      | [cdpath](options/cdpath.md)                |                                           |
+|        |                                                   |                                      | [cdpath](options/cdpath.md)                | [cdo,cfdo](excommands/cdo.md)             |
 |        |                                                   |                                      | [cedit](options/cedit.md)                  |                                           |
 |        |                                                   |                                      | [clipboard](options/clipboard.md)          |                                           |
