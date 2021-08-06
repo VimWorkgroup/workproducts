@@ -31,5 +31,5 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   | [complete](functions/complete.md)    | [cursorline](options/cursorhighlight.md)   | [cd,chdir](excommands/cd.md)              |
 |        |                                                   |                                      | [cursorlineopt](options/cursorhighlight.md)| [command](excommands/command.md)          |
 |        |                                                   |                                      | [cdpath](options/cdpath.md)                | [cdo,cfdo](excommands/cdo.md)             |
-|        |                                                   |                                      | [cedit](options/cedit.md)                  |                                           |
+|        |                                                   |                                      | [cedit](options/cedit.md)                  | [call](excommands/call.md)                |
 |        |                                                   |                                      | [clipboard](options/clipboard.md)          |                                           |
