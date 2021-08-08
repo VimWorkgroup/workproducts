@@ -33,3 +33,5 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                      | [cdpath](options/cdpath.md)                | [cdo,cfdo](excommands/cdo.md)             |
 |        |                                                   |                                      | [cedit](options/cedit.md)                  | [call](excommands/call.md)                |
 |        |                                                   |                                      | [clipboard](options/clipboard.md)          |                                           |
+|        |                                                   |                                      |                                            |                                           |
+| d      | [normal and visual d,D](commands/nv_dD.md)        |                                      |                                            |                                           |
