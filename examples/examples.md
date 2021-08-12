@@ -34,7 +34,7 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                      | [cedit](options/cedit.md)                  | [call](excommands/call.md)                |
 |        |                                                   |                                      | [clipboard](options/clipboard.md)          |                                           |
 |        |                                                   |                                      |                                            |                                           |
-| d      | [normal and visual d,D](commands/nv_dD.md)        |                                      |                                            |                                           |
+| d      | [normal and visual d,D](commands/nv_dD.md)        |                                      | [directory](options/directory.md)          |                                           |
 |        | [normal Ctrl-d](commands/n_Ctrl-d.md)             |                                      |                                            |                                           |
 |        | [insert Ctrl-d](commands/i_Ctrl-d.md)             |                                      |                                            |                                           |
 |        | [commandline Ctrl-d](commands/c_Ctrl-d.md)        |                                      |                                            |                                           |
