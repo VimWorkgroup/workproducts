@@ -6,4 +6,4 @@
 | comment sign         | `"`                                           | `#`                                    |
 | variable declaration | `let MyVar=0`                                 | `var MyVar=0`                          |
 | variable assignment  | `let MyVar=0`                                 | `MyVar=0`                              |
-| function definition  | <code>function MyFunc()<br>endfunction</code> | <code>def MyFunc()<br>enddef</code>    |
+| function definition  | <code>function MyFunc()&nbsp;endfunction</code> | <code>def MyFunc()<br>enddef</code>    |
