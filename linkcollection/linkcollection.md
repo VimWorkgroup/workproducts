@@ -47,6 +47,7 @@
 + [swaroopch.com](http://www.swaroopch.com/notes/vim/)
 
 ## Cheat Sheets
++ [quickref.me](https://quickref.me/vim)
 + [vim.rtorr cheat sheet in various languages](https://vim.rtorr.com)
 + [vimsheet.com](http://vimsheet.com)
 + [graphical cheat sheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
