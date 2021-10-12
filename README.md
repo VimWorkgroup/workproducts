@@ -15,6 +15,11 @@ each topic with an example, along with some tips and use cases.
 We thought it might be a good a idea to provide a complete [list of key mappings](keymappings/keymappings.md) (:h index)
 that also shows all free/unused key combinations. Just search for "FREE".
 
+## Overview Editing Commands
+In the last years I noticed that for beginners it's not clear right away that some commands can be combined with motions
+and text-objects following some rules, which reduces the number of commands to memorize immensely. Therefore we created
+[this overview](editing/editing.md) to visualize the possible combinations.
+
 ## Solutions
 Especially in the world of coding you come across the same problems over and over again. Auto-code-completion, syntax
 highlighting, jumping to declaration, just to name a few, and that for many languages. In this chapter we try to list
