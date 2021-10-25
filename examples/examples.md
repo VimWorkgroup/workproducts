@@ -34,7 +34,7 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                             | [cedit](options/cedit.md)                  | [call](excommands/call.md)                |
 |        |                                                   |                                             | [clipboard](options/clipboard.md)          |                                           |
 |        |                                                   |                                             |                                            |                                           |
-| d      | [normal and visual d,D](commands/nv_dD.md)        | [deepcopy](functions/deepcopy.md)           | [directory](options/directory.md)          |                                           |
+| d      | [normal and visual d,D](commands/nv_dD.md)        | [deepcopy](functions/deepcopy.md)           | [directory](options/directory.md)          | [digraphs](excommands/digraphs.md)        |
 |        | [normal Ctrl-d](commands/n_Ctrl-d.md)             | [delete](functions/delete.md)               | [dictionary](options/dictionary.md)        |                                           |
 |        | [insert Ctrl-d](commands/i_Ctrl-d.md)             | [deletebufline](functions/deletebufline.md) |                                            |                                           |
 |        | [commandline Ctrl-d](commands/c_Ctrl-d.md)        |                                             |                                            |                                           |
