@@ -36,3 +36,9 @@ which ways this command can be used.
     :28,31d
     :28,31d a
 
+### Deleting range of visually selected lines into register `a`
+
+Select the lines you want to delete and press colon `:`, Vim will add the range for you automatically.
+
+    :'<,'>d a
+
