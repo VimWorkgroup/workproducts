@@ -25,6 +25,7 @@
 + [learn-vim](https://github.com/iggredible/Learn-Vim)
 + [vim-helptag-versions](https://axelforsman.tk/vim-helptag-versions/)
 + [vimways](https://vimways.org/)
++ [vim.help](https://vim.help/)
 
 ## Colorschemes
 + [vimcolors.org](https://vimcolors.org)
