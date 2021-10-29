@@ -26,6 +26,7 @@
 + [vim-helptag-versions](https://axelforsman.tk/vim-helptag-versions/)
 + [vimways](https://vimways.org/)
 + [vim.help](https://vim.help/)
++ [vimconf.live](https://www.vimconf.live/)
 
 ## Colorschemes
 + [vimcolors.org](https://vimcolors.org)
