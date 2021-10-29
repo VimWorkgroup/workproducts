@@ -37,5 +37,10 @@ If you want to get informed about all new entries you can [join the Telegram cha
 | d      | [normal and visual d,D](commands/nv_dD.md)        | [deepcopy](functions/deepcopy.md)           | [directory](options/directory.md)          | [digraphs](excommands/digraphs.md)        |
 |        | [normal Ctrl-d](commands/n_Ctrl-d.md)             | [delete](functions/delete.md)               | [dictionary](options/dictionary.md)        | [delete](excommands/delete.md)            |
 |        | [insert Ctrl-d](commands/i_Ctrl-d.md)             | [deletebufline](functions/deletebufline.md) |                                            | [delmarks](excommands/delmarks.md)        |
-|        | [commandline Ctrl-d](commands/c_Ctrl-d.md)        |                                             |                                            |                                           |
+|        | [commandline Ctrl-d](commands/c_Ctrl-d.md)        |                                             |                                            | [dsearch](excommands/delmarks.md)         |
+|        |                                                   |                                             |                                            | [dlist](excommands/definecmds.md)         |
+|        |                                                   |                                             |                                            | [djump](excommands/definecmds.md)         |
+|        |                                                   |                                             |                                            | [dsplit](excommands/definecmds.md)        |
+|        |                                                   |                                             |                                            |                                           |
+|        |                                                   |                                             |                                            |                                           |
 
