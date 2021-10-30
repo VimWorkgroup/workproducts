@@ -78,7 +78,7 @@
 + [vifm](https://vifm.info)
 + [ranger](https://ranger.github.io)
 + [nnn](https://github.com/jarun/nnn)
-+ [nnn](https://github.com/dylanaraps/fff)
++ [fff](https://github.com/dylanaraps/fff)
 + [lf](https://godoc.org/github.com/gokcehan/lf)
 + [joshuto](https://github.com/kamiyaa/joshuto)
 
