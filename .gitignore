@@ -3,3 +3,5 @@ makefile
 examples/VimAlphabet.txt
 examples/demodir/
 snippets/
+vimscriptcomparison/v8.vim
+vimscriptcomparison/v9.vim

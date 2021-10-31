@@ -9,5 +9,5 @@
 | variable assignment  | <pre>let s:MyVar=0</pre>                            | <pre>MyVar = 0</pre>                          |
 | const                |                                                     | <pre>const and final</pre>                    |
 | function definition  | <pre>function MyFunc(Param) abort<br>   echo a:Param<br>endfunction</pre> | <pre>def MyFunc(Param: number)<br>   echo Param<br>enddef</pre> |
-| calling function     | <pre>call MyFunc(42)</pre>                          | MyFunc(42)                                    |
+| calling function     | <pre>call MyFunc(42)</pre>                          | <pre>MyFunc(42)</pre>                         |
 | ranges               | <pre>%s/patt/repl/g</pre>                           | <pre>:%s/patt/repl/g</pre>                    |
