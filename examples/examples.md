@@ -41,6 +41,12 @@ If you want to get informed about all new entries you can [join the Telegram cha
 |        |                                                   |                                             |                                            | [dlist](excommands/definecmds.md)         |
 |        |                                                   |                                             |                                            | [djump](excommands/definecmds.md)         |
 |        |                                                   |                                             |                                            | [dsplit](excommands/definecmds.md)        |
-|        |                                                   |                                             |                                            |                                           |
+|        |                                                   |                                             |                                            | [diffthis](excommands/diffcmds.md)        |
+|        |                                                   |                                             |                                            | [diffsplit](excommands/diffcmds.md)       |
+|        |                                                   |                                             |                                            | [diffget](excommands/diffcmds.md)         |
+|        |                                                   |                                             |                                            | [diffput](excommands/diffcmds.md)         |
+|        |                                                   |                                             |                                            | [diffpatch](excommands/diffcmds.md)       |
+|        |                                                   |                                             |                                            | [diffupdate](excommands/diffcmds.md)      |
+|        |                                                   |                                             |                                            | [diffoff](excommands/diffcmds.md)         |
 |        |                                                   |                                             |                                            |                                           |
 
