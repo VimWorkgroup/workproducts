@@ -20,6 +20,11 @@ In the last years I noticed that for beginners it's not clear right away that so
 and text-objects following some rules, which reduces the number of commands to memorize immensely. Therefore we created
 [this overview](editing/editing.md) to visualize the possible combinations.
 
+## Vim Script 8 vs. 9 Comparison
+As you might have heard, Bram is working on a new version of Vim Script to improve the performance. This brings some
+changes that are not backward compatible, and which is why we created a [comparison table](vimscriptcomparison/vimscriptcomparison.md)
+to give support you in case you want to convert your functions to Vim 9 Script.
+
 ## Solutions
 Especially in the world of coding you come across the same problems over and over again. Auto-code-completion, syntax
 highlighting, jumping to declaration, just to name a few, and that for many languages. In this chapter we try to list
