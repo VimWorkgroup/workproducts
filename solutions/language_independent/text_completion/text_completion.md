@@ -509,3 +509,13 @@ For more information read ...
 
     :help complete()
 
+
+## v:completed_item
+
+When writing a plugin it might be necessary to know what the user selected for completion.
+Every time you used a completion Vim updates an internal variable named `v:completed_item`, which contains
+the dictionary with all the completion information that we know from the user defined completions. See `:help
+complete-items`. If you aborted a completion then the dictionary is empty. Give it a try, complete something an run ...
+
+    :echo v:completed_item
+
