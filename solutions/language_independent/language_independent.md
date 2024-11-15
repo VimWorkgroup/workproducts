@@ -9,7 +9,7 @@ most common ones. The list is in no particular order.
 + Managing Sessions/Projects
 + Searching Text
 + Searching Files
-+ Browsing Files
++ [Browsing Files](browsing_files/browsing_files.md)
 + Triggering External Tools
 + Show File In OS File Explorer
 + Opening Documents With External Tools
