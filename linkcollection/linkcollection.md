@@ -10,6 +10,7 @@
 + [vim.wikia.com](http://vim.wikia.com)
 + [vimrcfu.com](http://vimrcfu.com)
 + [vim-adventures.com](http://vim-adventures.com)
++ [vim master](https://renzorlive.github.io/vimmaster/)
 + [vimgolf.com](https://vimgolf.com)
 + [openvim.com](http://www.openvim.com)
 + [vim.so](https://www.vim.so)
