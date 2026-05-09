@@ -87,6 +87,6 @@ free keys.
 
 Then there are also the bracket commands `[` and `]` where you have quite some free keys. Discover them by reading `:h [`.
 
-And last but not least the window commands starting with `<C-w>`. But I recommend you use the only for window commands
-to be consistent with Vim. Read `:h CTRL-W`.
+And last but not least the window commands starting with `<C-w>`, Vim did not consume all of them.
+But I recommend you use them only for window commands to be consistent with Vim. Read `:h CTRL-W`.
 
