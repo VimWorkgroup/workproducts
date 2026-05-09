@@ -13,7 +13,8 @@ each topic with an example, along with some tips and use cases.
 
 ## Key Mappings
 We thought it might be a good a idea to provide a complete [list of key mappings](keymappings/keymappings.md) (:h index)
-that also shows all free/unused key combinations. Just search for "FREE".
+that also shows all free/unused key combinations. Just search for "FREE". For a more in-depth explanation which keys are
+free read out [free keys](keymappings/freekeys.md) documentation.
 
 ## Overview Editing Commands
 In the last years I noticed that for beginners it's not clear right away that some commands can be combined with motions
